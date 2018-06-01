@@ -1,0 +1,26 @@
+.error-text{
+    color: red; 
+    font-size: 12px; 
+    font-weight: bold;
+}
+
+.rating-text{
+    font-size: 20px;
+    color: orange;
+}
+
+.flow-display{
+    display: flow-root;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.center{
+    text-align: center;
+}
